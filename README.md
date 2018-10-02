@@ -2,7 +2,7 @@
 
 # Upplýsingar um verkefni 5:
 
-[Smella hér til að skoða](./verkefni_upplysingar.md)
+[Smella hér til að skoða](./verkefni_uplysingar.md)
 
 
 # Link á verkefni:
