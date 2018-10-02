@@ -1,4 +1,4 @@
-#+title:Verkefni 5 
+#+title: Verkefni 5 
 #+author: Cuong Hung Pham
 #+email: chp3@hi.is
 #+startup: overview
